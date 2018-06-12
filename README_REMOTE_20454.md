@@ -1,6 +1,6 @@
 # CMSC6950 - Assignment 4 for Gulam Haqqani
 
-Git is a distributed Version Control System (VCS) that was created by
+Git is a distributed version control system that was created by
 Linus Torvalds, the creator of the Linux kernel.
 
 The Git workflow involving a remote repository consists of the following steps:
